@@ -1,0 +1,10 @@
+// Export all UI components for easy importing
+export { default as GlassCard } from './GlassCard';
+export { default as NeonButton } from './NeonButton';
+export { default as SectionTitle } from './SectionTitle';
+export { default as AnimatedCursor } from './AnimatedCursor';
+export { default as AnimatedBackground } from './AnimatedBackground';
+export { default as ParticleGrid } from './ParticleGrid';
+export { default as GlobalBackground } from './GlobalBackground';
+export { default as Avatar3D } from './Avatar3D';
+export { default as ProjectModal } from './ProjectModal';
