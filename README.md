@@ -171,9 +171,9 @@ Katkılarınızı bekliyoruz! Pull request göndermekten çekinmeyin.
 ## 📧 İletişim
 
 Sorularınız için:
-- Email: batuhan@example.com
-- LinkedIn: [linkedin.com/in/batuhankilic](https://linkedin.com/in/batuhankilic)
-- GitHub: [@batuhankilic](https://github.com/batuhankilic)
+- Email: batuhan.koksal699@gmail.com
+- LinkedIn: [[linkedin.com/in/batuhankilic](https://www.linkedin.com/in/batuhan-köksal-88323124a/)](https://linkedin.com/in/batuhankilic)
+- GitHub: [@mxmatheus](https://github.com/batuhankilic)
 
 ## 🙏 Teşekkürler
 
